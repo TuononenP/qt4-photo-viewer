@@ -1,8 +1,8 @@
 /********************************************************************************
 ** Form generated from reading UI file 'photo_viewer.ui'
 **
-** Created: Wed Aug 11 20:46:05 2010
-**      by: Qt User Interface Compiler version 4.6.2
+** Created: Sun Dec 19 17:00:26 2010
+**      by: Qt User Interface Compiler version 4.7.0
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
